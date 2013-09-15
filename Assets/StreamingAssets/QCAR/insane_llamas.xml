@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<QCARConfig xsi:noNamespaceSchemaLocation="qcar_config.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Tracking>
+        <ImageTarget name="MacAddictCover" size="0.1558 0.205"/>
+        <ImageTarget name="simpsonBlocko" size="0.165 0.15498"/>
+        <ImageTarget name="immersionCubetile" size="0.297 0.223831"/>
+        <ImageTarget name="hsisPoster" size="1.219 0.91425"/>
+    </Tracking>
+</QCARConfig>

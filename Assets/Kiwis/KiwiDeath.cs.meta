@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 44b80cb9778064a21a0331837a82023a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deathParticleEffect: {fileID: 100002, guid: 9e050598d03c4407b86f54876eadfdc1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}

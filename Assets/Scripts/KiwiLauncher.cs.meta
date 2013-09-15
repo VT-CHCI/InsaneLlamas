@@ -1,0 +1,8 @@
+fileFormatVersion: 2
+guid: 27f53808c45c248c2bd9e905bf637ba7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Kiwi: {fileID: 100000, guid: 36a1e2714c8424843bb6d9fb85de6876, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}

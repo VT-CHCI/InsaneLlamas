@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<QCARConfig xsi:noNamespaceSchemaLocation="qcar_config.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Tracking>
+        <ImageTarget name="AngryBirds" size="0.247 0.205627"/>
+        <ImageTarget name="SciVisDataset" size="0.2 0.2"/>
+        <ImageTarget name="X3D" size="0.156659 0.205"/>
+        <ImageTarget name="RealTimeRendering" size="0.178341 0.206"/>
+        <ImageTarget name="Maya2008" size="0.157167 0.205"/>
+        <ImageTarget name="Max2012" size="0.1599 0.205"/>
+        <ImageTarget name="Max2009Bible" size="0.157987 0.205"/>
+        <ImageTarget name="AutodeskECS2013" size="0.205 0.115313"/>
+        <ImageTarget name="MasteringMaya2012" size="0.159627 0.205"/>
+        <ImageTarget name="SharePoint" size="0.158533 0.205"/>
+        <ImageTarget name="Maya2011" size="0.160583 0.205"/>
+        <ImageTarget name="Llamas" size="0.165952 0.205"/>
+        <ImageTarget name="Kiwi" size="0.235 0.210088"/>
+        <ImageTarget name="WomenInComputing" size="0.278 0.215799"/>
+        <ImageTarget name="FelipePoster" size="0.930034 1.063"/>
+        <ImageTarget name="hsisPoster" size="1.219 0.91425"/>
+        <ImageTarget name="MacAddictCover" size="0.118408 0.1558"/>
+        <ImageTarget name="simpsonBlocko" size="0.165 0.15498"/>
+        <ImageTarget name="immersionCubetile" size="0.297 0.223831"/>
+        <ImageTarget name="Chips" size="0.27 0.189221"/>
+        <ImageTarget name="Tarmac" size="0.27 0.189406"/>
+        <ImageTarget name="Stone" size="0.27 0.189221"/>
+        <ImageTarget name="Bamboo" size="0.27 0.189221"/>
+        <ImageTarget name="Cityscape1" size="0.27 0.189221"/>
+        <ImageTarget name="Cityscape2" size="0.27 0.189221"/>
+        <ImageTarget name="CampusMap" size="0.163376 0.2065"/>
+        <ImageTarget name="Painting1" size="0.27 0.2025"/>
+        <ImageTarget name="Eagles" size="0.27 0.151753"/>
+        <ImageTarget name="Cityscape3" size="0.27 0.151973"/>
+        <ImageTarget name="Trees" size="0.378 0.3024"/>
+        <ImageTarget name="IEEE2012Front" size="0.166771 0.216"/>
+        <ImageTarget name="BigChips" size="0.4245 0.27469"/>
+        <ImageTarget name="BigCracked" size="0.4245 0.27477"/>
+        <ImageTarget name="BigGravel" size="0.4245 0.274764"/>
+        <ImageTarget name="BigPebble" size="0.4245 0.274702"/>
+        <ImageTarget name="BigSand" size="0.4245 0.274793"/>
+        <ImageTarget name="BigTrees" size="0.4245 0.274598"/>
+    </Tracking>
+</QCARConfig>
